@@ -1,0 +1,5 @@
+name: catch-the-fire-starter
+version: 0.0.1
+library: false
+dependencies:
+  codeql/tutorial: "*"
