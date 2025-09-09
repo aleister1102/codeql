@@ -1,3 +1,9 @@
+/*
+    @id os-system
+    @severity error
+    @kind problem
+*/
+
 import python
 import semmle.python.ApiGraphs
 

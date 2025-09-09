@@ -39,3 +39,6 @@ Issues and suggestions should be reported in the [`vscode-codeql` repo](https://
 This project is [licensed](LICENSE.md) under the MIT License. 
 
 The CodeQL extension for Visual Studio Code is [licensed](https://github.com/github/vscode-codeql/blob/main/extensions/ql-vscode/LICENSE.md) under the MIT License. The version of CodeQL used by the CodeQL extension is subject to the [GitHub CodeQL Terms & Conditions](https://securitylab.github.com/tools/codeql/license).
+
+## Databases
+- `GitHubSecurityLab/codeql-zero-to-hero`
